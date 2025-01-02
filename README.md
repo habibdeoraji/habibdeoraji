@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @habibdeoraji
+# 👋 Hi, I’m Habib
 
 ### About Me
 
