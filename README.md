@@ -7,35 +7,36 @@
 <h1 align="center">Md Habibullah</h1>
 
 <p align="center">
-  <a href="mailto:habibdeoraji@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:habibdeoraji@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/habibdeoraji"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/habibdeoraji" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Bangalore%2C_India-6E40C9?style=flat-square&logo=googlemaps&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/habibdeoraji" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=habibdeoraji&style=flat-square&color=6E40C9&label=views" /></a>
 </p>
 
-Senior Frontend Engineer with **5+ years** turning complex requirements into scalable, high-performance React applications. I've shipped systems used by **500K+ educators**, built real-time collaboration tools, and led frontend architecture end-to-end — from system design and RBAC to Core Web Vitals and CI/CD. I work best where the problem is hard, the users are real, and the code has to last.
+Senior Frontend Engineer with **5+ years** of turning complex, ambiguous requirements into scalable, high-performance React systems. I've shipped platforms used by **500K+ educators**, led frontend architecture from first principles, and consistently delivered in high-stakes production environments. I bring strong analytical thinking and problem-solving to every layer — breaking down hard requirements, spotting bottlenecks before they ship, and building interfaces that make complex data feel simple. I work best where the problem is hard, the users are real, and the code has to last.
 
 ### Experience
 
-**[Data Society Group](https://www.linkedin.com/company/data-society-group)** &nbsp; `Apr 2022 – Jan 2026`
+<a href="https://www.linkedin.com/company/data-society-group" target="_blank" rel="noopener noreferrer"><strong>Data Society Group</strong></a> &nbsp; `Apr 2022 – Jan 2026`
 <br>*Frontend Engineer → Senior Frontend Engineer*
 
 - Owned and delivered the complete frontend architecture for a statewide EdTech community platform serving **500K+ educators** across the US
 - Designed RBAC supporting four admin roles with granular permission layers governing feature access, content visibility, and admin actions
-- Built real-time educator chat with **WebSockets** — direct messaging and group conversations
 - Integrated **TipTap** rich text editor with code blocks, embedded media, and full community forum threading
 - Implemented optimistic UI with **RTK Query** `onQueryStarted` — manual cache patching and rollback on 4xx/5xx responses
 - Optimised **Core Web Vitals** (LCP, INP, CLS) via lazy loading, memoization, and code splitting → **30% faster load times**
 - Built a data visualization platform rendering ML model outputs as charts and geospatial maps (Nivo · Leaflet)
 - Led migration from REST to RTK Query — improved consistency and reduced boilerplate across the codebase
 
-**[AlphaStream](https://www.linkedin.com/company/alphastreamit)** &nbsp; `Nov 2021 – Apr 2022`
+<a href="https://www.linkedin.com/company/alphastreamit" target="_blank" rel="noopener noreferrer"><strong>AlphaStream</strong></a> &nbsp; `Nov 2021 – Apr 2022`
 
 - Shipped an analytics dashboard with Chart.js, reducing data analysis time by 30%
 - Built a reusable data table (sort · filter · paginate) adopted across 4 internal products
 
-**[Quizlet](https://www.linkedin.com/company/quizlet)** &nbsp; `Sep 2020 – Oct 2021`
+<a href="https://www.linkedin.com/company/quizlet" target="_blank" rel="noopener noreferrer"><strong>Quizlet</strong></a> &nbsp; `Sep 2020 – Oct 2021`
 
 - Led and moderated a team of 35 Expert Contributors, overseeing quality for 10,000+ solutions
 - Authored 7,000+ solutions for advanced Mathematics, DSA using HTML, CSS, JavaScript, and LaTeX
@@ -46,6 +47,7 @@ Senior Frontend Engineer with **5+ years** turning complex requirements into sca
 <br>
 <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
