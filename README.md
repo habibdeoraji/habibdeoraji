@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=480&height=50&lines=Senior+Frontend+Engineer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+AWS;Building+at+scale+since+2021" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=480&height=50&lines=Senior+Frontend+Engineer+%F0%9F%9A%80;React+%7C+TypeScript+%7C+AWS;Building+at+scale+since+2020" alt="Typing SVG" />
 
 </div>
 
@@ -16,45 +16,46 @@
   <img src="https://img.shields.io/badge/Bangalore%2C_India-6E40C9?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
----
+<br>
 
-Frontend engineer with **4+ years** building production systems at scale. I care about architecture, performance, and the kind of frontend that survives contact with real users and real teams — not just demos.
+Frontend engineer with **5+ years** building production systems at scale. I care about architecture, performance, and the kind of frontend that survives contact with real users and real teams — not just demos.
 
 Most of my time goes into **React systems at scale**, shaping architecture decisions, and making sure apps stay fast and maintainable as complexity grows.
 
----
+<br>
 
 ### Now
 
 Building the frontend for **Open Fern** — an open-source, provider-agnostic AI video production studio. Covers creation flows, AI model config (Gemini · OpenAI · ElevenLabs · Kling), asset management, human-in-the-loop review, and Remotion-based editing.
 
----
+<br>
 
 ### Experience
 
-**Senior Frontend Engineer — Data Society Group** &nbsp; `Jul 2023 – Jan 2026`
+**Data Society Group** &nbsp; `Apr 2022 – Jan 2026`
+<br>
+*Frontend Engineer → Senior Frontend Engineer*
 
-Owned the complete frontend for a statewide EdTech community platform serving **500K+ educators** across the US.
-
-- Designed system architecture, RBAC (4 admin roles), and feature roadmap from the ground up
+- Owned and delivered the complete frontend architecture for a statewide EdTech community platform serving **500K+ educators** across the US
+- Designed RBAC supporting four admin roles with granular permission layers governing feature access, content visibility, and admin actions
 - Built real-time educator chat with **WebSockets** — direct messaging and group conversations
-- Integrated **TipTap** rich text editor with code blocks, embedded media, and community forum threading
-- Implemented optimistic UI with **RTK Query** `onQueryStarted` — manual cache patching and rollback on 4xx/5xx
+- Integrated **TipTap** rich text editor with code blocks, embedded media, and full community forum threading
+- Implemented optimistic UI with **RTK Query** `onQueryStarted` — manual cache patching and rollback on 4xx/5xx responses
 - Optimised **Core Web Vitals** (LCP, INP, CLS) via lazy loading, memoization, and code splitting → **30% faster load times**
-- Built moderation tooling: content flagging, user reporting, admin review queues, and bulk actions
+- Built a data visualization platform rendering ML model outputs as charts and geospatial maps (Nivo · Leaflet)
+- Led migration from REST to RTK Query — improved consistency and reduced boilerplate across the codebase
 
-**Frontend Engineer — Data Society Group** &nbsp; `Apr 2022 – Jun 2023`
+**AlphaStream** &nbsp; `Nov 2021 – Apr 2022`
 
-- Built a **data visualization platform** rendering ML model outputs as charts and geospatial maps (Nivo · Leaflet)
-- Led migration from REST to **RTK Query** — improved consistency and cut boilerplate across the codebase
-- Contributed to a **Vue.js** product: component dev, state management, API integration
-
-**Frontend Developer — AlphaStream** &nbsp; `Nov 2021 – Apr 2022`
-
-- Shipped an analytics dashboard with **Chart.js**, reducing data analysis time by 30%
+- Shipped an analytics dashboard with Chart.js, reducing data analysis time by 30%
 - Built a reusable data table (sort · filter · paginate) adopted across 4 internal products
 
----
+**Quizlet** &nbsp; `Sep 2020 – Oct 2021`
+
+- Led and moderated a team of 35 Expert Contributors, overseeing quality for 10,000+ solutions
+- Authored 7,000+ solutions for advanced Mathematics, DSA using HTML, CSS, JavaScript, and LaTeX
+
+<br>
 
 ### Stack
 
@@ -84,7 +85,7 @@ Owned the complete frontend for a statewide EdTech community platform serving **
   <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" />
 </p>
 
----
+<br>
 
 ### What I care about
 
@@ -94,6 +95,6 @@ Owned the complete frontend for a statewide EdTech community platform serving **
 - Accessibility built in, not bolted on
 - Calm, consistent delivery with solid tooling
 
----
+<br>
 
-<sub align="center">I enjoy frontend work that rewards clear thinking, good taste, and attention to detail.</sub>
+<sub>I enjoy frontend work that rewards clear thinking, good taste, and attention to detail.</sub>
