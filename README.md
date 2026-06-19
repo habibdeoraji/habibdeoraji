@@ -14,19 +14,12 @@
   <img src="https://img.shields.io/badge/Bangalore%2C_India-6E40C9?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
-<br>
-
-Frontend engineer with **5+ years** building production systems at scale. I care about architecture, performance, and the kind of frontend that survives contact with real users and real teams — not just demos.
-
-Most of my time goes into **React systems at scale**, shaping architecture decisions, and making sure apps stay fast and maintainable as complexity grows.
-
-<br>
+Senior Frontend Engineer with **5+ years** turning complex requirements into scalable, high-performance React applications. I've shipped systems used by **500K+ educators**, built real-time collaboration tools, and led frontend architecture end-to-end — from system design and RBAC to Core Web Vitals and CI/CD. I work best where the problem is hard, the users are real, and the code has to last.
 
 ### Experience
 
 **[Data Society Group](https://www.linkedin.com/company/data-society-group)** &nbsp; `Apr 2022 – Jan 2026`
-<br>
-*Frontend Engineer → Senior Frontend Engineer*
+<br>*Frontend Engineer → Senior Frontend Engineer*
 
 - Owned and delivered the complete frontend architecture for a statewide EdTech community platform serving **500K+ educators** across the US
 - Designed RBAC supporting four admin roles with granular permission layers governing feature access, content visibility, and admin actions
@@ -47,42 +40,36 @@ Most of my time goes into **React systems at scale**, shaping architecture decis
 - Led and moderated a team of 35 Expert Contributors, overseeing quality for 10,000+ solutions
 - Authored 7,000+ solutions for advanced Mathematics, DSA using HTML, CSS, JavaScript, and LaTeX
 
-<br>
-
 ### Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nivo-E94560?style=flat-square" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3_%2F_CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" />
-</p>
-
+**Languages**
 <br>
+<img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 
-### What I care about
+**Tools & Cloud Services**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_S3_%2F_CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" />
 
-- Frontend systems, not just pages
-- Performance improvements you can actually feel
-- Data made legible — not just displayed
-- Accessibility built in, not bolted on
-- Calm, consistent delivery with solid tooling
+**Libraries & Frameworks**
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Nivo-E94560?style=flat-square" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" />
